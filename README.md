@@ -1,5 +1,24 @@
-## Hi there 👋
+## 👋 Olá, eu sou Wenderson
+💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python | Preparando-se para o mercado de tecnologia**
 
+## 🛸 Sobre mim
+- 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**  
+- 📚 Sempre aprendendo novas tecnologias e boas práticas de programação  
+- 🖊️ Interesse especial em **projetos web** e **desenvolvimento back-end**
+
+## 🛠️ Tecnologias que estudo
+<div style="display: inline_block"><br> 
+  <img align="center" alt="Python" height="40" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+</div>
+  
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendersonmdev&show_icons=true&theme=tokyonight)  
+
+## 🔎 Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wenderson.m.dev@gmail.com)
+
+✨ *“Sempre aprendendo e evoluindo como desenvolvedor.”* ✨
 <!--
 **wendersonmdev/Wendersonmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
